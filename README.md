@@ -17,8 +17,7 @@
 
 ## Summary
 
-Solidus is a complete open source ecommerce solution built with Ruby on Rails.
-It is a fork of [Spree](https://spreecommerce.org).
+FriendlyCart is an experimental fork of [Solidus](https://www.solidus.io), which is a fork of [Spree](https://spreecommerce.org).
 
 See the [Solidus class documentation](http://docs.solidus.io) and the [Solidus
 Guides](https://guides.solidus.io) for information about the functionality that
