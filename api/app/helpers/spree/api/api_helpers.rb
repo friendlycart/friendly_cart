@@ -117,10 +117,6 @@ module Spree
         :id, :state, :variant_id, :shipment_id
       ]
 
-      @@return_authorization_attributes = [
-        :id, :number, :state, :order_id, :memo, :created_at, :updated_at
-      ]
-
       @@address_attributes = [
         :id, :firstname, :lastname, :full_name, :address1, :address2, :city,
         :zipcode, :phone, :company, :alternative_phone, :country_id, :country_iso,
